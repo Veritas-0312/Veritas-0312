@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.E. in **Computer Science and Engineering**
+- 🎓 B.Tech. in **Computer Science and Engineering**
 - 🔐 Passionate about **cybersecurity**, **pentesting**, and **software engineering**
 - 🧪 Active on **TryHackMe** and **Hack The Box**
 - 🛠️ Building custom tools to **secure organizations**
